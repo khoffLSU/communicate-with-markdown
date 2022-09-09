@@ -5,6 +5,8 @@ Markdown represents a lightweight text formatting language to help with written 
 
 [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
+[KhoffLSU GitHub Profile](https://github.com/khoffLSU)
+
 ---
 ### Adding and image
 > GitHub Image provided with tutorial
@@ -33,3 +35,11 @@ def Factorial(num):
     else:
         return Factorial(num-1)*num
 ```
+---
+### Add a task list
+Task lists can be very helpful in identifying to do items, keeping track and applied components, or demonstrating a selection
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [x] Complete task list and commit
